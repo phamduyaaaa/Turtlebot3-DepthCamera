@@ -1,4 +1,8 @@
 # Waffe Pi + Depth Camera
+    sudo apt-get update
+    
+    sudo apt-get install ros-noetic-turtlebot3-gazebo
+    
     rosrun rqt_image_view rqt_image_view
 
     export TURTLEBOT3_MODEL=waffle_pi
