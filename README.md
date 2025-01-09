@@ -10,6 +10,8 @@
     rosrun rqt_image_view rqt_image_view
 #
     pkill -f gazebo
+#
+    cd /opt/ros/noetic/share/turtlebot3_description/urdf
 
 ![Screenshot from 2025-01-09 13-21-58](https://github.com/user-attachments/assets/083c10b5-f596-4fcf-92e8-b2e3ad8cf19e)
 
